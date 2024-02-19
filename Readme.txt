@@ -13,7 +13,7 @@ The Uttaranchal University Computer Science Club Website is a platform designed 
 
 **Installation:**
 To run the website locally, follow these steps:
-1. Clone the repository from [GitHub Repo Link].
+1. Clone the repository.
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser to view the website.
 
